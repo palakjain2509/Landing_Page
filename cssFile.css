@@ -1,0 +1,57 @@
+#main{
+    background-color:blueviolet;
+}
+#logo{
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 500;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+}
+a:hover{
+    color: red;
+}
+#menu{
+    text-decoration: none;
+    text-align:center;
+    justify-content:space-around;
+    
+}
+#navi{
+    padding: 20px;
+    font-weight: 500;
+}
+#para{
+    color: red;
+    font-size:xx-large;
+    font-weight: strong;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#middle{
+    background-color: indigo;
+    padding: 40px;
+    font-size: 200px;
+    margin-bottom: 0%;
+}
+#content{
+    color: cadetblue;
+    font-size: 20px;
+}
+#bu1{
+   padding: 10px;
+   color: white; 
+   border-radius: 20px;
+   background-color: red;
+}
+#bu2{
+   padding: 10px;
+   color: white; 
+   border-radius: 20px;
+   background-color: indigo;
+}
